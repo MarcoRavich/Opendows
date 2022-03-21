@@ -1,10 +1,7 @@
 ![Opendows](http://www.forart.it/progetti/Opendows/logo.png)
 *Opening legacies MS-Windows*
 ---
-### About 
-The project aims to replace any (legacy) MS-Windows components with open source counterparts.
-
-### Components:
+### List of Windows components:
 - [Configuration and maintenance]()
 - [User interface]()
 - [Windows Server]()
