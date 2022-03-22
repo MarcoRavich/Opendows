@@ -2,7 +2,7 @@
 *Opening legacies MS-Windows*
 ---
 ### List of Windows components:
-- [Configuration and maintenance]()
+- [Configuration and maintenance](conf_&_mant.md)
 - [User interface]()
 - [Windows Server]()
 - [File systems]()
