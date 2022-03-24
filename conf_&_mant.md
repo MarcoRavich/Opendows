@@ -18,3 +18,5 @@
 |:-:|:-:|:-:|
 |[Windows Update](https://en.wikipedia.org/wiki/Windows_Update)|An online service providing updates such as service packs, critical updates and device drivers. A variation called Microsoft Update also provides software updates for other Microsoft products|[WuMgr](https://github.com/DavidXanatos/wumgr)|
 |[Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer)|An engine for the management of software installation. Includes a GUI framework, automatic generation of the uninstallation sequence and deployment capabilities for corporate networks|[NSIS](https://nsis.sourceforge.io/)|
+
+...do you know better resources ? Share them [here](https://github.com/forart/Opendows/discussions/1) !
