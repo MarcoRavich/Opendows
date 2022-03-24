@@ -4,6 +4,7 @@
 ### List of Windows components:
 - [Configuration and maintenance](conf_&_mant.md)
   - [Control Panel](conf_&_mant.md#control-panel)
+  - [Administrative Tools](conf_&_mant.md#administrative-tools)
 - [User interface]()
 - [Windows Server]()
 - [File systems]()
