@@ -10,3 +10,4 @@
 |Component|Description|Open counterpart|
 |:-:|:-:|:-:|
 |[Microsoft Drive Optimizer](https://en.wikipedia.org/wiki/Microsoft_Drive_Optimizer)|Rearranges files stored on a hard disk to occupy contiguous storage locations in order to optimize computer performance|[UltraDefrag](https://ultradefrag.net/)|
+|[Registry Editor](https://en.wikipedia.org/wiki/Windows_Registry#Editing)|Allows users to browse and edit the Windows registry|[Registry Explorer](https://github.com/zodiacon/RegExp)|
