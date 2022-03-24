@@ -3,6 +3,7 @@
 ---
 ### List of Windows components:
 - [Configuration and maintenance](conf_&_mant.md)
+  - [Control Panel](conf_&_mant.md#control-panel)
 - [User interface]()
 - [Windows Server]()
 - [File systems]()
