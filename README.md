@@ -22,4 +22,4 @@
 (source: https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
 
 
-[Noteblock](note.md)
+[Notebloc](note.md)
