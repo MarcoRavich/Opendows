@@ -12,6 +12,9 @@
 |[Microsoft Drive Optimizer](https://en.wikipedia.org/wiki/Microsoft_Drive_Optimizer)|Rearranges files stored on a hard disk to occupy contiguous storage locations in order to optimize computer performance|[UltraDefrag](https://ultradefrag.net/)|
 |[Registry Editor](https://en.wikipedia.org/wiki/Windows_Registry#Editing)|Allows users to browse and edit the Windows registry|[Registry Explorer](https://github.com/zodiacon/RegExp)|
 |[Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler)|Allows users to script tasks for running during scheduled intervals|[Process Hacker](https://processhacker.sourceforge.io/)|
+|[Event Viewer](https://en.wikipedia.org/wiki/Event_Viewer)|Lets administrators and users view the event logs on a local or remote machine|[EventLook](https://github.com/kmaki565/EventLook)|
+
+
 
 ## Software installation and deployment
 |Component|Description|Open Replacement|
