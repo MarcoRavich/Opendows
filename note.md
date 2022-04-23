@@ -25,3 +25,5 @@ https://github.com/raste/PermissionsManager
 https://github.com/valinet/ExplorerPatcher
 
 https://github.com/MegaphatNetworks?tab=repositories
+
+https://reactos.org/wiki/Fonts
