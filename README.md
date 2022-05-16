@@ -6,6 +6,7 @@
   - [Control Panel](conf_&_mant.md#control-panel)
   - [Administrative Tools](conf_&_mant.md#administrative-tools)
   - [Software installation and deployment](conf_&_mant.md#software-installation-and-deployment)
+- [Applications and utilities](app&utils.md)
 - [User interface](UserGUI.md)
 - [Windows Server]()
 - [File systems]()
