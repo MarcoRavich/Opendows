@@ -2,11 +2,10 @@
 
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
-|[Alarms & Clock]()|App that allows Windows users to set alarms, stopwatches, timers, and view a world clock||
-|[Camera]()|||
-|[Calculator]()|Calculation application||
-|[Calendar]()|Calendaring application||
-|[Command Prompt]()|||
+|[Alarms & Clock](https://en.wikipedia.org/wiki/Windows_Alarms_%26_Clock)|App that allows Windows users to set alarms, stopwatches, timers, and view a world clock|[Digital Clock 4](https://sourceforge.net/projects/digitalclock4/)|
+|[Camera]()|Image and video capture utility|[videoInput]([https://sourceforge.net/projects/digitalclock4/](http://www.muonics.net/school/spring05/videoInput/))|
+|[Calculator](https://en.wikipedia.org/wiki/Windows_Calculator)|Calculation application|[SpeedCrunch](https://speedcrunch.org/)|
+|[Calendar](https://en.wikipedia.org/wiki/Calendar_(Win
 |[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps||
 |[Character Map]()|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names||
 |[Cortana]()|Digital personal assistant||
