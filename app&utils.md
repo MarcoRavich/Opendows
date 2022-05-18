@@ -3,7 +3,7 @@
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Alarms & Clock](https://en.wikipedia.org/wiki/Windows_Alarms_%26_Clock)|App that allows Windows users to set alarms, stopwatches, timers, and view a world clock|[Digital Clock 4](https://sourceforge.net/projects/digitalclock4/)|
-|[Camera]()|Image and video capture utility|[videoInput]([https://sourceforge.net/projects/digitalclock4/](http://www.muonics.net/school/spring05/videoInput/))|
+|[Camera](https://en.wikipedia.org/wiki/Windows_Camera)|Image and video capture utility|[videoInput](http://www.muonics.net/school/spring05/videoInput/)|
 |[Calculator](https://en.wikipedia.org/wiki/Windows_Calculator)|Calculation application|[SpeedCrunch](https://speedcrunch.org/)|
 |[Calendar](https://en.wikipedia.org/wiki/Calendar_(Windows))|Calendaring application|[qOrganizer](http://qorganizer.sourceforge.net/)|
 |[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps||
