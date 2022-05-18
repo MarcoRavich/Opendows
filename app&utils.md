@@ -1,7 +1,8 @@
-# User interface
+# Applications and utilities
 
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
+|[Alarms & Clock]()|App that allows Windows users to set alarms, stopwatches, timers, and view a world clock||
 |[Camera]()|||
 |[Calculator]()|Calculation application||
 |[Calendar]()|Calendaring application||
@@ -35,29 +36,12 @@
 |[IExpress]()|Allows users to create self-extracting, self-installing INF installation-based packages||
 |[Magnifier]()|Screen enlargement app||
 |[Fax and Scan]()|Integrated faxing and image scanning application||
-
-|[Easy Transfer]()|Used to transfer many files at once from one computer to another||
-|[Easy Transfer]()|Used to transfer many files at once from one computer to another||
-|[Easy Transfer]()|Used to transfer many files at once from one computer to another||
-|[Easy Transfer]()|Used to transfer many files at once from one computer to another||
-
-
-
-
-
- 	 	Windows 98
- 	 	Windows Vista, older faxing and scanning applications were present in previous Windows versions
-Photo Viewer 	Simple image viewer that can play a simple slideshow 	Windows 7
-Mail 	Email aggregator 	Windows 8
-Maps 	Map viewer that allows users to look for locations, plan routes, and store offline maps 	Windows 8
-Media Center 	Designed to serve as a home-entertainment hub, to be viewed from a distance up to 3 meters (~10 feet) and controlled by specially designed remote controls. Lets users browse and view pictures, videos, and music from local hard drives, optical drives, and network locations, along with viewing, recording and deferred-playing live TV. Features an interactive TV guide with scheduled recording capabilities. Can also be used for visualization of other information (like sports scores) within the interface. 	Windows XP Media Center Edition
-Task Manager 	Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services 	Windows 3.0
-Disk Cleanup 	Utility for compacting rarely used files and removing files that are no longer required 	Windows 98
-Snipping Tool 	Screen-capture tool that allows for taking screenshots (called snips) 	Experience Pack for Windows XP Tablet PC Edition 2005
-Microsoft Store
-(previously Windows Store) 	Initially known as Windows Store, it started as an app store for Windows 8. In Windows 10, it expanded into a broad digital distribution platform for apps, games, music, digital video and e-books. In 2017, it was renamed Microsoft Store and started offering hardware in United States, Canada and United Kingdom. 	Windows 8
-MSN apps 	Provide information from MSN web services 	Windows 8
-Alarms & Clock(pre Alarms) 	App that allows Windows users to set alarms, stopwatches, timers, and view a world clock 	Windows 8
-Windows Security
-(previously Windows Defender Security Center) 		Windows 10 Version 1703
-Solitaire Collection 	Set of solitaire card games 	Windows 10 Version 1507, downloadable for Windows 8.x 
+|[Photo Viewer]()|Simple image viewer that can play a simple slideshow||
+|[Mail]()|Email aggregator||
+|[Maps]()|Map viewer that allows users to look for locations, plan routes, and store offline maps||
+|[Media Center]()|Designed to serve as a home-entertainment hub. Lets users browse and view pictures, videos, and music||
+|[Task Manager]()|Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services||
+|[Disk Cleanup]()|Utility for compacting rarely used files and removing files that are no longer required||
+|[Snipping Tool]()|Screen-capture tool that allows for taking screenshots (called snips)||
+|[Windows Security]()|Used to transfer many files at once from one computer to another||
+|[Solitaire Collection]()|Set of solitaire card games||
