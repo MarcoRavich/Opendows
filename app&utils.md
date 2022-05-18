@@ -6,7 +6,7 @@
 |[Camera](https://en.wikipedia.org/wiki/Windows_Camera)|Image and video capture utility|[videoInput](http://www.muonics.net/school/spring05/videoInput/)|
 |[Calculator](https://en.wikipedia.org/wiki/Windows_Calculator)|Calculation application|[SpeedCrunch](https://speedcrunch.org/)|
 |[Calendar](https://en.wikipedia.org/wiki/Calendar_(Windows))|Calendaring application|[qOrganizer](http://qorganizer.sourceforge.net/)|
-|[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps||
+|[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps|[contacts-manager](https://github.com/ArcTLK/contacts-manager)|
 |[Character Map]()|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names||
 |[Cortana]()|Digital personal assistant||
 |[Easy Transfer]()|Used to transfer many files at once from one computer to another||
