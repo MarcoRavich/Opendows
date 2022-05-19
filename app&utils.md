@@ -15,7 +15,7 @@
 |[Movies & TV](https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV)|Digital media player and media library application that is used for playing video. In addition to being a media player, Movies & TV lets users purchase or rent movies and TV episodes from the Windows Store|[Kodi](https://kodi.tv/)|
 |[OneDrive](https://en.wikipedia.org/wiki/OneDrive)|Freemium cloud storage folder and sync service|[Syncthing](https://syncthing.net/)|
 |[OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote)|Integrated note-taking app, based on the Microsoft Office product of the same name|[Standard Notes](https://standardnotes.com/)|
-|[On-Screen Keyboard]()|Virtual keyboard||
+|[On-Screen Keyboard]()|Virtual keyboard|[ReplaceOSK](https://github.com/Lulech23/ReplaceOSK)|
 |[Paint 3D]()|Simple graphics painting app||
 |[Photos]()|Simple image viewer||
 |[Steps Recorder]()|Utility that allows the user to capture steps they took to reproduce a problem||
