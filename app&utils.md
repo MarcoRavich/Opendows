@@ -17,7 +17,7 @@
 |[OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote)|Integrated note-taking app, based on the Microsoft Office product of the same name|[Standard Notes](https://standardnotes.com/)|
 |[On-Screen Keyboard]()|Virtual keyboard|[ReplaceOSK](https://github.com/Lulech23/ReplaceOSK)|
 |[Paint 3D]()|Simple graphics painting app||
-|[Photos](https://en.wikipedia.org/wiki/Microsoft_Photos)|Simple image viewer|[PicView](https://picview.org/))|
+|[Photos](https://en.wikipedia.org/wiki/Microsoft_Photos)|Simple image viewer|[PicView](https://picview.org/)|
 |[Steps Recorder]()|Utility that allows the user to capture steps they took to reproduce a problem||
 |[Windows To Go]()|Utility to create bootable versions of Windows||
 |[Notepad]()|Simple text editor||
