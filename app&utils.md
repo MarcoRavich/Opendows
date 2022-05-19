@@ -7,8 +7,8 @@
 |[Calculator](https://en.wikipedia.org/wiki/Windows_Calculator)|Calculation application|[SpeedCrunch](https://speedcrunch.org/)|
 |[Calendar](https://en.wikipedia.org/wiki/Calendar_(Windows))|Calendaring application|[qOrganizer](http://qorganizer.sourceforge.net/)|
 |[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps|[contacts-manager](https://github.com/ArcTLK/contacts-manager)|
-|[Character Map]()|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names||
-|[Cortana]()|Digital personal assistant||
+|[Character Map]()|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names|[SymbSearch](https://leun4m.github.io/symbsearch/)|
+|[Cortana]()|Digital personal assistant|[Kara](https://github.com/emileclarkb/Kara)|
 |[Easy Transfer]()|Used to transfer many files at once from one computer to another||
 |[Edge]()|Web browser||
 |[Feedback Hub]()|Platform for exchanging communication with Windows Insiders and developers||
