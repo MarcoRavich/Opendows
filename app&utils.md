@@ -1,21 +1,20 @@
 # Applications and utilities
 
-|Component|Description|Open Replacement|
+|Component (Wikipedia)|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Alarms & Clock](https://en.wikipedia.org/wiki/Windows_Alarms_%26_Clock)|App that allows Windows users to set alarms, stopwatches, timers, and view a world clock|[Digital Clock 4](https://sourceforge.net/projects/digitalclock4/)|
 |[Camera](https://en.wikipedia.org/wiki/Windows_Camera)|Image and video capture utility|[videoInput](http://www.muonics.net/school/spring05/videoInput/)|
 |[Calculator](https://en.wikipedia.org/wiki/Windows_Calculator)|Calculation application|[SpeedCrunch](https://speedcrunch.org/)|
 |[Calendar](https://en.wikipedia.org/wiki/Calendar_(Windows))|Calendaring application|[qOrganizer](http://qorganizer.sourceforge.net/)|
-|[Contacts]()|Keeps a single list of contacts that can be shared by multiple apps|[contacts-manager](https://github.com/ArcTLK/contacts-manager)|
-|[Character Map]()|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names|[SymbSearch](https://leun4m.github.io/symbsearch/)|
-|[Cortana]()|Digital personal assistant|[Kara](https://github.com/emileclarkb/Kara)|
-|[Easy Transfer]()|Used to transfer many files at once from one computer to another||
-|[Edge]()|Web browser||
-|[Feedback Hub]()|Platform for exchanging communication with Windows Insiders and developers||
-|[Groove Music]()|Digital media player and media library application that is used for playing audio. In addition to being a media player, Groove includes the ability to copy music to compact discs, synchronize content with a digital audio player (MP3 player) or other mobile devices, and let users purchase or rent music from the Windows Store||
-|[Movies & TV]()|Digital media player and media library application that is used for playing video. In addition to being a media player, Movies & TV lets users purchase or rent movies and TV episodes from the Windows Store||
-|[OneDrive]()|Freemium cloud storage folder and sync service||
-|[OneNote]()|Integrated note-taking app, based on the Microsoft Office product of the same name||
+|[Contacts](https://en.wikipedia.org/wiki/Windows_Contacts)|Keeps a single list of contacts that can be shared by multiple apps|[contacts-manager](https://github.com/ArcTLK/contacts-manager)|
+|[Character Map](https://en.wikipedia.org/wiki/Character_Map_(Windows))|Utility to view and search characters in a font, copy them to the clipboard and view their Windows Alt keycodes and Unicode names|[SymbSearch](https://leun4m.github.io/symbsearch/)|
+|[Cortana](https://en.wikipedia.org/wiki/Cortana_(virtual_assistant))|Digital personal assistant|[Kara](https://github.com/emileclarkb/Kara)|
+|[Easy Transfer](https://en.wikipedia.org/wiki/Windows_Easy_Transfer)|Used to transfer many files at once from one computer to another|[User Data Transfer](https://github.com/andrew-metallinos/User-Data-Transfer-Windows-10-and-11)|
+|[Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)|Web browser|[Mypal](https://mypal-browser.org/)|
+|[Groove Music](https://en.wikipedia.org/wiki/Groove_Music)|Digital media player and media library application that is used for playing audio|[Dopamine](https://www.digimezzo.com/software/dopamine/)|
+|[Movies & TV](https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV)|Digital media player and media library application that is used for playing video. In addition to being a media player, Movies & TV lets users purchase or rent movies and TV episodes from the Windows Store|[Kodi](https://kodi.tv/)|
+|[OneDrive](https://en.wikipedia.org/wiki/OneDrive)|Freemium cloud storage folder and sync service|[Syncthing](https://syncthing.net/)|
+|[OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote)|Integrated note-taking app, based on the Microsoft Office product of the same name|[Standard Notes](https://standardnotes.com/)|
 |[On-Screen Keyboard]()|Virtual keyboard||
 |[Paint 3D]()|Simple graphics painting app||
 |[Photos]()|Simple image viewer||
