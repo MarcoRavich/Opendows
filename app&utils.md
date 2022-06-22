@@ -19,10 +19,10 @@
 |[Paint 3D]()|Simple graphics painting app||
 |[Photos](https://en.wikipedia.org/wiki/Microsoft_Photos)|Simple image viewer|[PicView](https://picview.org/)|
 |[Steps Recorder]()|Utility that allows the user to capture steps they took to reproduce a problem||
-|[Windows To Go]()|Utility to create bootable versions of Windows||
-|[Notepad]()|Simple text editor||
-|[Narrator]()|Screen reader utility that reads dialog boxes and window controls in a number of the more basic applications||
-|[Sound Recorder]()|Simple audio recording app||
+|[Windows To Go]()|Utility to create bootable versions of Windows|[Windows To Go Assistant](https://github.com/nkc3g4/wtg-assistant)|
+|[Notepad]()|Simple text editor|[Notepad++](https://notepad-plus-plus.org/)|
+|[Narrator]()|Screen reader utility that reads dialog boxes and window controls in a number of the more basic applications|[NVDA](https://github.com/nvaccess/nvda)|
+|[Sound Recorder]()|Simple audio recording app|[HarddiskOgg](https://sourceforge.net/projects/harddiskogg/)|
 |[Skype]()|Messaging and calling service||
 |[Sticky Notes]()|Tool for jotting notes on the desktop||
 |[WordPad]()|Simple word processor||
