@@ -23,23 +23,23 @@
 |[Notepad]()|Simple text editor|[Notepad++](https://notepad-plus-plus.org/)|
 |[Narrator]()|Screen reader utility that reads dialog boxes and window controls in a number of the more basic applications|[NVDA](https://github.com/nvaccess/nvda)|
 |[Sound Recorder]()|Simple audio recording app|[HarddiskOgg](https://sourceforge.net/projects/harddiskogg/)|
-|[Skype]()|Messaging and calling service||
-|[Sticky Notes]()|Tool for jotting notes on the desktop||
-|[WordPad]()|Simple word processor||
-|[Private Character Editor]()|Utility to create private use characters as defined under Unicode and various East Asian encoding schemes||
-|[Remote Desktop Connection]()|Allows a user to securely connect to a computer running Terminal Services and interact with a full desktop environment on that machine, including support for remoting of printers, audio, and drives||
-|[Remote Assistance]()|Allows a user to temporarily take over a remote computer over a network or the internet to offer help with and resolve issues||
+|[Skype]()|Messaging and calling service|[Jami](https://jami.net/)|
+|[Sticky Notes]()|Tool for jotting notes on the desktop|[Standard Notes](https://standardnotes.com/)|
+|[WordPad]()|Simple word processor|[WordPad-](https://github.com/blaze6950/WordPad-)|
+|[Private Character Editor]()|Utility to create private use characters as defined under Unicode and various East Asian encoding schemes|[BIRDFONT](https://birdfont.org/)|
+|[Remote Desktop Connection]()|Allows a user to securely connect to a computer running Terminal Services and interact with a full desktop environment on that machine, including support for remoting of printers, audio, and drives|[mRemoteNG](https://mremoteng.org/)|
+|[Remote Assistance]()|Allows a user to temporarily take over a remote computer over a network or the internet to offer help with and resolve issues|[Aspia](https://aspia.org/)|
 |[Mobility Center]()|Allows a user to adjust settings related to mobile computing||
-|[Speech Recognition]()|Allows a user to input voice commands||
+|[Speech Recognition]()|Allows a user to input voice commands|[CMUSphinx](https://cmusphinx.github.io/)|
 |[IExpress]()|Allows users to create self-extracting, self-installing INF installation-based packages||
-|[Magnifier]()|Screen enlargement app||
-|[Fax and Scan]()|Integrated faxing and image scanning application||
-|[Photo Viewer]()|Simple image viewer that can play a simple slideshow||
+|[Magnifier]()|Screen enlargement app|[Virtual Magnifying Glass](https://magnifier.sourceforge.net/)|
+|[Fax and Scan]()|Integrated faxing and image scanning application|[Scanner](https://simon-knuth.github.io/scanner/)|
+|[Photo Viewer]()|Simple image viewer that can play a simple slideshow|[nomacs](https://nomacs.org/)|
 |[Mail]()|Email aggregator||
 |[Maps]()|Map viewer that allows users to look for locations, plan routes, and store offline maps||
 |[Media Center]()|Designed to serve as a home-entertainment hub. Lets users browse and view pictures, videos, and music||
 |[Task Manager]()|Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services||
-|[Disk Cleanup]()|Utility for compacting rarely used files and removing files that are no longer required||
+|[Disk Cleanup]()|Utility for compacting rarely used files and removing files that are no longer required|[BleachBit](https://www.bleachbit.org/)|
 |[Snipping Tool]()|Screen-capture tool that allows for taking screenshots (called snips)||
 |[Windows Security]()|Used to transfer many files at once from one computer to another||
-|[Solitaire Collection]()|Set of solitaire card games||
+|[Solitaire Collection]()|Set of solitaire card games|[PySolFC](https://pysolfc.sourceforge.io/)|
