@@ -35,10 +35,10 @@
 |[Magnifier]()|Screen enlargement app|[Virtual Magnifying Glass](https://magnifier.sourceforge.net/)|
 |[Fax and Scan]()|Integrated faxing and image scanning application|[Scanner](https://simon-knuth.github.io/scanner/)|
 |[Photo Viewer]()|Simple image viewer that can play a simple slideshow|[nomacs](https://nomacs.org/)|
-|[Mail]()|Email aggregator||
-|[Maps]()|Map viewer that allows users to look for locations, plan routes, and store offline maps||
-|[Media Center]()|Designed to serve as a home-entertainment hub. Lets users browse and view pictures, videos, and music||
-|[Task Manager]()|Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services||
+|[Mail]()|Email aggregator|[Thunderbird](https://www.thunderbird.net/)|
+|[Maps]()|Map viewer that allows users to look for locations, plan routes, and store offline maps|[NAVIT](https://www.navit-project.org/)|
+|[Media Center]()|Designed to serve as a home-entertainment hub. Lets users browse and view pictures, videos, and music|[Kodi](https://kodi.tv/)|
+|[Task Manager]()|Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services|[TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)|
 |[Disk Cleanup]()|Utility for compacting rarely used files and removing files that are no longer required|[BleachBit](https://www.bleachbit.org/)|
 |[Snipping Tool]()|Screen-capture tool that allows for taking screenshots (called snips)||
 |[Windows Security]()|Used to transfer many files at once from one computer to another||
