@@ -1,12 +1,12 @@
 # Configuration and maintenance
 Subsections: [Control Panel](#control-panel) - [Administrative Tools](#administrative-tools) - [Software installation and deployment](#software-installation-and-deployment)
 
-## Control Panel
+## Control Panel [«](#configuration-and-maintenance)
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Control Panel](https://en.wikipedia.org/wiki/Control_Panel_(Windows))|Allows users to view and change basic system settings and controls, such as adding hardware, adding and removing software, controlling user accounts, and changing accessibility options|[SimpPanel](https://sourceforge.net/projects/simppanel/)|
 
-## Administrative Tools
+## Administrative Tools [«](#configuration-and-maintenance)
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Microsoft Drive Optimizer](https://en.wikipedia.org/wiki/Microsoft_Drive_Optimizer)|Rearranges files stored on a hard disk to occupy contiguous storage locations in order to optimize computer performance|[UltraDefrag](https://ultradefrag.net/)|
@@ -14,9 +14,7 @@ Subsections: [Control Panel](#control-panel) - [Administrative Tools](#administr
 |[Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler)|Allows users to script tasks for running during scheduled intervals|[Process Hacker](https://processhacker.sourceforge.io/)|
 |[Event Viewer](https://en.wikipedia.org/wiki/Event_Viewer)|Lets administrators and users view the event logs on a local or remote machine|[EventLook](https://github.com/kmaki565/EventLook)|
 
-
-
-## Software installation and deployment
+## Software installation and deployment [«](#configuration-and-maintenance)
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Windows Update](https://en.wikipedia.org/wiki/Windows_Update)|An online service providing updates such as service packs, critical updates and device drivers. A variation called Microsoft Update also provides software updates for other Microsoft products|[WuMgr](https://github.com/DavidXanatos/wumgr)|
