@@ -1,7 +1,7 @@
 # Configuration and maintenance
+Subsections: [Control Panel](#control-panel) - [Administrative Tools](#administrative-tools) - [Software installation and deployment](#software-installation-and-deployment)
 
 ## Control Panel
-
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Control Panel](https://en.wikipedia.org/wiki/Control_Panel_(Windows))|Allows users to view and change basic system settings and controls, such as adding hardware, adding and removing software, controlling user accounts, and changing accessibility options|[SimpPanel](https://sourceforge.net/projects/simppanel/)|
