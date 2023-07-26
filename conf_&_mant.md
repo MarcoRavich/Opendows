@@ -1,5 +1,5 @@
 # Configuration and maintenance
-Subsections: [Control Panel](#control-panel) - [Administrative Tools](#administrative-tools) - [Software installation and deployment](#software-installation-and-deployment)
+Subsections: [Control Panel](#control-panel) - [Administrative Tools](#administrative-tools) - [Software installation and deployment](#software-installation-and-deployment-)
 
 ## Control Panel [«](#configuration-and-maintenance)
 |Component|Description|Open Replacement|
