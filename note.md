@@ -29,3 +29,5 @@ https://github.com/MegaphatNetworks?tab=repositories
 https://reactos.org/wiki/Fonts
 
 https://github.com/twonth/winning-at-windows
+
+https://github.com/AxtMueller/Windows-Kernel-Explorer
