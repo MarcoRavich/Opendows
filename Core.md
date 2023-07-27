@@ -6,7 +6,7 @@
 ### Windows kernel (Windows NT) [⌂](#core-components)
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
-|[Ntoskrnl.exe](https://en.wikipedia.org/wiki/Ntoskrnl.exe)|Provides the kernel and executive layers of the kernel architecture, and is responsible for services such as hardware virtualization, process and memory management, etc.||
+|[Ntoskrnl.exe](https://en.wikipedia.org/wiki/Ntoskrnl.exe)|Provides the kernel and executive layers of the kernel architecture, and is responsible for services such as hardware virtualization, process and memory management, etc.|[Windows Research Kernel](https://github.com/zhuhuibeishadiao/ntoskrnl)|
 |[hal.dll](https://en.wikipedia.org/wiki/Hal.dll)|Provides and handles the interaction between software and hardware via the Hardware Abstraction Layer||
 |[kernel32.dll](https://en.wikipedia.org/wiki/Kernel32.dll)|Provides kernel operations to apps in the Win32 mode, like memory management, I/Os, process creation, etc.||
 
