@@ -10,7 +10,7 @@
 - [User interface](UserGUI.md)
 - [Windows Server]()
 - [File systems]()
-- [Core]()
+- [Core components](Core.md)
 - [Services]()
 - [DirectX]()
 - [Networking]()
