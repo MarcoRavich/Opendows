@@ -20,7 +20,7 @@
 |[Photos](https://en.wikipedia.org/wiki/Microsoft_Photos)|Simple image viewer|[PicView](https://picview.org/)|
 |[Steps Recorder]()|Utility that allows the user to capture steps they took to reproduce a problem||
 |[Windows To Go]()|Utility to create bootable versions of Windows|[Windows To Go Assistant](https://github.com/nkc3g4/wtg-assistant)|
-|[Notepad]()|Simple text editor|[Notepad++](https://notepad-plus-plus.org/)|
+|[Notepad]()|Simple text editor|[NotepadEx](https://github.com/Air16/NotepadEx)|
 |[Narrator]()|Screen reader utility that reads dialog boxes and window controls in a number of the more basic applications|[NVDA](https://github.com/nvaccess/nvda)|
 |[Sound Recorder]()|Simple audio recording app|[HarddiskOgg](https://sourceforge.net/projects/harddiskogg/)|
 |[Skype]()|Messaging and calling service|[Jami](https://jami.net/)|

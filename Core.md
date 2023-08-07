@@ -21,7 +21,7 @@
 |[Winlogon](https://en.wikipedia.org/wiki/Winlogon)|Responsible for handling the secure attention key, loading the user profile on logon, and optionally locking the computer when a screensaver is running||
 |[Svchost.exe](https://en.wikipedia.org/wiki/Svchost.exe)|A generic host process name for services that run from dynamic-link libraries (DLLs)||
 |[Windows on Windows](https://en.wikipedia.org/wiki/Windows_on_Windows) and [WOW64](https://en.wikipedia.org/wiki/WOW64)|An abstraction layer that allows legacy code to operate on more modern versions of Windows||
-|[Virtual DOS machine](https://en.wikipedia.org/wiki/Virtual_DOS_machine)|Allows MS-DOS apps to run on Intel 80386 or higher computers when there is already another operating system running and controlling the hardware||
+|[Virtual DOS machine](https://en.wikipedia.org/wiki/Virtual_DOS_machine)|Allows MS-DOS apps to run on Intel 80386 or higher computers when there is already another operating system running and controlling the hardware|[WineVDM](https://github.com/otya128/winevdm)|
 
 ## System startup (Windows NT) [⌂](#core-components)
 |Component|Description|Open Replacement|
