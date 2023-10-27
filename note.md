@@ -35,3 +35,7 @@ https://github.com/twonth/winning-at-windows
 https://github.com/AxtMueller/Windows-Kernel-Explorer
 
 https://github.com/GeorgeK1ng/GenAHCI
+
+https://github.com/vxiiduu/NotepadEx
+
+https://github.com/windows-experience/eXPerienceBar
