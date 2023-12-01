@@ -35,5 +35,5 @@
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
 |[Desktop Window Manager](https://en.wikipedia.org/wiki/Desktop_Window_Manager)|Handles compositing and manages special effects on screen objects in a graphical user interface||
-|[Graphics Device Interface](https://en.wikipedia.org/wiki/Graphics_Device_Interface)|Representing graphical objects and transmitting them to output devices such as monitors and printers||
+|[Graphics Device Interface](https://en.wikipedia.org/wiki/Graphics_Device_Interface)|Representing graphical objects and transmitting them to output devices such as monitors and printers|[GDIPP](https://github.com/CoolOppo/GDIPP) / [libgdiplus](https://github.com/mono/libgdiplus)|
 |[Windows USER](https://en.wikipedia.org/wiki/Windows_USER)|Provides core user interface, messaging and visual elements||
