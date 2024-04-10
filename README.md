@@ -1,5 +1,5 @@
 ![Opendows](http://www.forart.it/progetti/Opendows/logo.png)
-*Open source replacements for MS-Windows components*
+*Open source replacements for (legacy) MS-Windows components*
 ---
 ### List of Windows components:
 - [Configuration and maintenance](conf_&_mant.md)
