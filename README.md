@@ -1,7 +1,7 @@
 ![Opendows](http://www.forart.it/progetti/Opendows/logo.png)
 *Open source replacements for (legacy) MS-Windows components*
 ---
-### List of Windows components:
+### List of Windows components and possible open source counterpart:
 - [Configuration and maintenance](conf_&_mant.md)
   - [Control Panel](conf_&_mant.md#control-panel)
   - [Administrative Tools](conf_&_mant.md#administrative-tools)
