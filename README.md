@@ -8,17 +8,17 @@
   - [Software installation and deployment](conf_&_mant.md#software-installation-and-deployment)
 - [Applications and utilities](app&utils.md)
 - [User interface](UserGUI.md)
-- [Windows Server]
-- [File systems]
+- Windows Server
+- File systems
 - [Core components](Core.md)
-- [Services]
-- [DirectX]
-- [Networking]
-- [Scripting and command-line]
-- [Kernel]
-- [.NET Framework]
-- [Security]
-- [APIs]
+- Services
+- DirectX
+- Networking
+- Scripting and command-line
+- Kernel
+- .NET Framework
+- Security
+- APIs
 - [Drivers](Drivers.md)
 
 (source: https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
