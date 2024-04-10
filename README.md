@@ -23,7 +23,7 @@
 
 (source: https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
 
-### Open source custom Windows ISOs:
+### Open source customized Windows ISOs:
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AtlasOS](https://atlasos.net/)|An open and transparent modification to Windows, designed to optimize performance, privacy and stability|[![](https://img.shields.io/github/languages/top/Atlas-OS/Atlas?color=pink&style=flat-square)](https://github.com/Atlas-OS/Atlas/graphs/contributors)|[![](https://flat.badgen.net/github/license/Atlas-OS/Atlas?label=)](https://github.com/Atlas-OS/Atlas/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Atlas-OS/Atlas/main?label=)](https://github.com/Atlas-OS/Atlas/graphs/code-frequency)|
