@@ -41,3 +41,5 @@ https://github.com/vxiiduu/NotepadEx
 https://github.com/windows-experience/eXPerienceBar
 
 https://github.com/ntdevlabs/tiny11builder
+
+https://github.com/Skulltrail192/One-Core-API-Binaries
