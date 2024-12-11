@@ -1,11 +1,11 @@
 # [![Opendows](https://flat.badgen.net/badge/Opendows/TWEAKERS/blue?scale=1.8)]() <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 📁 [Performances](#performances-tuners-) - [Debloaters](#debloaters-) - [Privacy](#privacy-) - [Specific](#specific-)
+### 📁 [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Privacy](#privacy-) - [Specific](#specific-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
-### Performances Tuners [⌂](#--)
+### Optimizers [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Awesome Win11](https://github.com/awesome-windows11/windows11#readme)|🌎 Windows 11 Settings, Tweaks, Scripts|[![](https://img.shields.io/github/languages/top/awesome-windows11/windows11?color=pink&style=flat-square)](https://github.com/awesome-windows11/windows11/graphs/contributors)|[![](https://flat.badgen.net/github/license/awesome-windows11/windows11?label=)](https://github.com/awesome-windows11/windows11/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/awesome-windows11/windows11?style=flat-square&label=)](https://github.com/awesome-windows11/windows11/graphs/code-frequency)|
