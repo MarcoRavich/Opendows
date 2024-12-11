@@ -1,11 +1,11 @@
 # [![Opendows](https://flat.badgen.net/badge/Opendows/TWEAKERS/blue?scale=1.8)]() <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 📁 [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Privacy](#privacy-) - [Specific](#specific-)
+### 📁 [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Setup](#setup-) - [Privacy](#privacy-) - [Specific](#specific-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
-### Optimizers [⌂](#--)
+### Optimizers [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Awesome Win11](https://github.com/awesome-windows11/windows11#readme)|🌎 Windows 11 Settings, Tweaks, Scripts|[![](https://img.shields.io/github/languages/top/awesome-windows11/windows11?color=pink&style=flat-square)](https://github.com/awesome-windows11/windows11/graphs/contributors)|[![](https://flat.badgen.net/github/license/awesome-windows11/windows11?label=)](https://github.com/awesome-windows11/windows11/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/awesome-windows11/windows11?style=flat-square&label=)](https://github.com/awesome-windows11/windows11/graphs/code-frequency)|
@@ -20,7 +20,8 @@
 |[windows-tools](https://github.com/jebofponderworthy/windows-tools#readme)|A toolset for improvement of performance of Windows desktop and server operating systems|[![](https://img.shields.io/github/languages/top/jebofponderworthy/windows-tools?color=pink&style=flat-square)](https://github.com/jebofponderworthy/windows-tools/graphs/contributors)|[![](https://flat.badgen.net/github/license/jebofponderworthy/windows-tools?label=)](https://github.com/jebofponderworthy/windows-tools/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/jebofponderworthy/windows-tools?style=flat-square&label=)](https://github.com/jebofponderworthy/windows-tools/graphs/code-frequency)|
 |[W11Boost](https://github.com/felikcat/W11Boost#readme)|♻️ Multi-choice Windows optimizer that prioritizes breaking nothing|[![](https://img.shields.io/github/languages/top/felikcat/W11Boost?color=pink&style=flat-square)](https://github.com/felikcat/W11Boost/graphs/contributors)|[![](https://flat.badgen.net/github/license/felikcat/W11Boost?label=)](https://github.com/felikcat/W11Boost/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/felikcat/W11Boost?style=flat-square&label=)](https://github.com/felikcat/W11Boost/graphs/code-frequency)|
 
-### Debloaters [⌂](#--)
+
+### Debloaters [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Bloatynosy Nue](https://github.com/builtbybel/Bloatynosy#readme)|Tool for cleaning up and debloating Windows|[![](https://img.shields.io/github/languages/top/builtbybel/Bloatynosy?color=pink&style=flat-square)](https://github.com/builtbybel/Bloatynosy/graphs/contributors)|[![](https://flat.badgen.net/github/license/builtbybel/Bloatynosy?label=)](https://github.com/builtbybel/Bloatynosy/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/builtbybel/Bloatynosy?style=flat-square&label=)](https://github.com/builtbybel/Bloatynosy/graphs/code-frequency)|
@@ -31,15 +32,21 @@
 |[Win11 Post Install PowerShell Script](https://github.com/vinod-unny-eit/Win11PostInstallPS#readme)|A Windows 11 (24H2) Post Install Script in PowerShell to customize your working environment|[![](https://img.shields.io/github/languages/top/vinod-unny-eit/Win11PostInstallPS?color=pink&style=flat-square)](https://github.com/vinod-unny-eit/Win11PostInstallPS/graphs/contributors)|[![](https://flat.badgen.net/github/license/vinod-unny-eit/Win11PostInstallPS?label=)](https://github.com/vinod-unny-eit/Win11PostInstallPS/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/vinod-unny-eit/Win11PostInstallPS?style=flat-square&label=)](https://github.com/vinod-unny-eit/Win11PostInstallPS/graphs/code-frequency)|
 |[AppXManager11-WindowsDebloater](https://github.com/BarTechIT/AppXManager11-WindowsDebloater#readme)|A tool designed to remove bloatware (unwanted pre-installed apps) on Windows 11|[![](https://img.shields.io/github/languages/top/BarTechIT/AppXManager11-WindowsDebloater?color=pink&style=flat-square)](https://github.com/BarTechIT/AppXManager11-WindowsDebloater/graphs/contributors)|[![](https://flat.badgen.net/github/license/BarTechIT/AppXManager11-WindowsDebloater?label=)](https://github.com/BarTechIT/AppXManager11-WindowsDebloater/issues/2)|[![](https://img.shields.io/github/last-commit/BarTechIT/AppXManager11-WindowsDebloater?style=flat-square&label=)](https://github.com/BarTechIT/AppXManager11-WindowsDebloater/graphs/code-frequency)|
 
+### Setup [⌂](#-)
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Simplify11](https://github.com/emylfy/simplify11#readme)|Simpler way to setup your Windows 🪟 (Individual Perfomance & Privacy tweaks, Space cleaner, App Installer)|[![](https://img.shields.io/github/languages/top/emylfy/simplify11?color=pink&style=flat-square)](https://github.com/emylfy/simplify11/graphs/contributors)|[![](https://flat.badgen.net/github/license/emylfy/simplify11?label=)](https://github.com/emylfy/simplify11/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/emylfy/simplify11?style=flat-square&label=)](https://github.com/emylfy/simplify11/graphs/code-frequency)|
+|[setup_scripts_for_windows](https://github.com/EffiOvadia/setup_scripts_for_windows#readme)|PowerShell setup scripts for Windows 10/11 operating system |[![](https://img.shields.io/github/languages/top/EffiOvadia/setup_scripts_for_windows?color=pink&style=flat-square)](https://github.com/EffiOvadia/setup_scripts_for_windows/graphs/contributors)|[![](https://flat.badgen.net/github/license/EffiOvadia/setup_scripts_for_windows?label=)](https://github.com/EffiOvadia/setup_scripts_for_windows/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/EffiOvadia/setup_scripts_for_windows?style=flat-square&label=)](https://github.com/EffiOvadia/setup_scripts_for_windows/graphs/code-frequency)|
 
-### Privacy [⌂](#--)
+
+### Privacy [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[PrivWindoze](https://github.com/furtivex/PrivWindoze#readme)|PrivWindoze (Private Windows) is a Microsoft Windows tool, which aims to quickly delete telemetry, bundleware, and bloatware.|[![](https://img.shields.io/github/languages/top/furtivex/PrivWindoze?color=pink&style=flat-square)](https://github.com/furtivex/PrivWindoze/graphs/contributors)|[![](https://flat.badgen.net/github/license/furtivex/PrivWindoze?label=)](https://github.com/furtivex/PrivWindoze/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/furtivex/PrivWindoze?style=flat-square&label=)](https://github.com/furtivex/PrivWindoze/graphs/code-frequency)|
 |[DebloatAndSecurizeW11](https://github.com/JulienVB/DebloatAndSecurizeW11#readme)|Windows 11 Hardening Script|[![](https://img.shields.io/github/languages/top/JulienVB/DebloatAndSecurizeW11?color=pink&style=flat-square)](https://github.com/JulienVB/DebloatAndSecurizeW11/graphs/contributors)|[![](https://flat.badgen.net/github/license/JulienVB/DebloatAndSecurizeW11?label=)](https://github.com/JulienVB/DebloatAndSecurizeW11/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/JulienVB/DebloatAndSecurizeW11?style=flat-square&label=)](https://github.com/JulienVB/DebloatAndSecurizeW11/graphs/code-frequency)|
 
 
-### Specific [⌂](#--)
+### Specific [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts#readme)|Scripts to simplify setting up a Windows developer box|[![](https://img.shields.io/github/languages/top/microsoft/windows-dev-box-setup-scripts?color=pink&style=flat-square)](https://github.com/microsoft/windows-dev-box-setup-scripts/graphs/contributors)|[![](https://flat.badgen.net/github/license/microsoft/windows-dev-box-setup-scripts?label=)](https://github.com/microsoft/windows-dev-box-setup-scripts/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/microsoft/windows-dev-box-setup-scripts?style=flat-square&label=)](https://github.com/microsoft/windows-dev-box-setup-scripts/graphs/code-frequency)|
