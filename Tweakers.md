@@ -96,7 +96,7 @@
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DebloatAndSecurizeW11](https://github.com/JulienVB/DebloatAndSecurizeW11#readme)|Windows 11 Hardening Script|[![](https://img.shields.io/github/languages/top/JulienVB/DebloatAndSecurizeW11?color=pink&style=flat-square)](https://github.com/JulienVB/DebloatAndSecurizeW11/graphs/contributors)|[![](https://flat.badgen.net/github/license/JulienVB/DebloatAndSecurizeW11?label=)](https://github.com/JulienVB/DebloatAndSecurizeW11/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/JulienVB/DebloatAndSecurizeW11?style=flat-square&label=)](https://github.com/JulienVB/DebloatAndSecurizeW11/graphs/code-frequency)|
-
+|[Windows 11 Privacy Optimizer](https://github.com/HerrTaeubler/Win11-privacy-tool#readme)|A PowerShell script to optimize privacy settings in Windows 11|[![](https://img.shields.io/github/languages/top/HerrTaeubler/Win11-privacy-tool?color=pink&style=flat-square)](https://github.com/HerrTaeubler/Win11-privacy-tool/graphs/contributors)|[![](https://flat.badgen.net/github/license/HerrTaeubler/Win11-privacy-tool?label=)](https://github.com/HerrTaeubler/Win11-privacy-tool/issues/1)|[![](https://img.shields.io/github/last-commit/HerrTaeubler/Win11-privacy-tool?style=flat-square&label=)](https://github.com/HerrTaeubler/Win11-privacy-tool/graphs/code-frequency)|
 
 ### Specific [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
