@@ -1,9 +1,14 @@
 # [![Opendows](https://flat.badgen.net/badge/Opendows/TWEAKERS/blue?scale=1.8)]() <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 📁 [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Setupers](#setupers-) - [Privacy](#privacy-) - [Specific](#specific-) - [Other](#other-)
+### 📁 [Guides](#guides-) - [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Setupers](#setupers-) - [Privacy](#privacy-) - [Specific](#specific-) - [Other](#other-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
+
+### Guides [⌂](#-)
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[PC-Tuning](https://github.com/valleyofdoom/PC-Tuning#readme)|Configure Windows-based systems for a variety of tasks|[![](https://img.shields.io/github/languages/top/valleyofdoom/PC-Tuning?color=pink&style=flat-square)](https://github.com/valleyofdoom/PC-Tuning/graphs/contributors)|[![](https://flat.badgen.net/github/license/valleyofdoom/PC-Tuning?label=)](https://github.com/valleyofdoom/PC-Tuning/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/valleyofdoom/PC-Tuning?style=flat-square&label=)](https://github.com/valleyofdoom/PC-Tuning/graphs/code-frequency)|
 
 ### Optimizers [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
@@ -103,6 +108,7 @@
 ### Specific [⌂](#-)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[TheOS](https://github.com/heitorrosa/TheOS#readme)|Custom Windows OS with a lot of debloats and optimizations, focusing on optimizing your DPC Latency and overall system stability|[![](https://img.shields.io/github/languages/top/heitorrosa/TheOS?color=pink&style=flat-square)](https://github.com/heitorrosa/TheOS/graphs/contributors)|[![](https://flat.badgen.net/github/license/heitorrosa/TheOS?label=)](https://github.com/heitorrosa/TheOS/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/heitorrosa/TheOS?style=flat-square&label=)](https://github.com/heitorrosa/TheOS/graphs/code-frequency)|
 |[FPS-Boost](https://github.com/JitRRky/FPS-Boost#readme)|A powerful tool designed to enhance frame rates and optimize graphics settings seamlessly|[![](https://img.shields.io/github/languages/top/JitRRky/FPS-Boost?color=pink&style=flat-square)](https://github.com/JitRRky/FPS-Boost/graphs/contributors)|[![](https://flat.badgen.net/github/license/JitRRky/FPS-Boost?label=)](https://github.com/JitRRky/FPS-Boost/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/JitRRky/FPS-Boost?style=flat-square&label=)](https://github.com/JitRRky/FPS-Boost/graphs/code-frequency)|
 |[WindowsOptimizer](https://github.com/Jomaxsoec/WindowsOptimizer#readme)|Cleans temporary files (Temp, Prefetch, Recycle Bin),Clears Windows Update cache,Flushes DNS cache,Optionally restarts Explorer for changes to take effect|[![](https://img.shields.io/github/languages/top/Jomaxsoec/WindowsOptimizer?color=pink&style=flat-square)](https://github.com/Jomaxsoec/WindowsOptimizer/graphs/contributors)|[![](https://flat.badgen.net/github/license/Jomaxsoec/WindowsOptimizer?label=)](https://github.com/Jomaxsoec/WindowsOptimizer/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/Jomaxsoec/WindowsOptimizer?style=flat-square&label=)](https://github.com/Jomaxsoec/WindowsOptimizer/graphs/code-frequency)|
 |[windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts#readme)|Scripts to simplify setting up a Windows developer box|[![](https://img.shields.io/github/languages/top/microsoft/windows-dev-box-setup-scripts?color=pink&style=flat-square)](https://github.com/microsoft/windows-dev-box-setup-scripts/graphs/contributors)|[![](https://flat.badgen.net/github/license/microsoft/windows-dev-box-setup-scripts?label=)](https://github.com/microsoft/windows-dev-box-setup-scripts/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/microsoft/windows-dev-box-setup-scripts?style=flat-square&label=)](https://github.com/microsoft/windows-dev-box-setup-scripts/graphs/code-frequency)|
