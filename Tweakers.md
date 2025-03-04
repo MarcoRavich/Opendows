@@ -1,4 +1,5 @@
-# [![Opendows](https://flat.badgen.net/badge/Opendows/TWEAKERS/blue?scale=1.8)]() <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![Opendows](https://flat.badgen.net/badge/Opendows/TWEAKERS/blue?scale=1.8)]() <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarcoRavich%2FOpendows%2Fblob%2Fmain%2FTweakers.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FMarcoRavich%2FOpendows%2Fblob%2Fmain%2FTweakers.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
+
 
 ### 📁 [Guides](#guides-) - [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Setupers](#setupers-) - [Privacy](#privacy-) - [Specific](#specific-) - [Other](#other-)
 
