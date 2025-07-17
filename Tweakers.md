@@ -3,7 +3,8 @@
 
 ### 📁 [Guides](#guides-) - [Customizers](#customizers-) - [Cleaners](#cleaners-) - [Optimizers](#optimizers-) - [Debloaters](#debloaters-) - [Setupers](#setupers-) - [Privacy](#privacy-) - [Specific](#specific-) - [Other](#other-) - [ISOs/Playbooks](#isosplaybooks-)
 
-![](https://badgen.net/static/⚠️SORTING:/Language%20(a%3Ez)%20%3E%20License%20(openness)%20%3E%20Repository%20(a%3Ez)/orange)
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Guides [⌂](#-)
 |Repository|Short description|License|Last commit|
