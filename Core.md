@@ -34,6 +34,6 @@
 ## Graphical subsystem [⌂](#core-components)
 |Component|Description|Open Replacement|
 |:-:|:-:|:-:|
-|[Desktop Window Manager](https://en.wikipedia.org/wiki/Desktop_Window_Manager)|Handles compositing and manages special effects on screen objects in a graphical user interface|[Aviyal](https://github.com/TheAjaykrishnanR/aviyal#readme)|
+|[Desktop Window Manager](https://en.wikipedia.org/wiki/Desktop_Window_Manager)|Handles compositing and manages special effects on screen objects in a graphical user interface|[Aviyal](https://github.com/TheAjaykrishnanR/aviyal#readme) / [LiteStep](https://github.com/lsdev/litestep#readme)|
 |[Graphics Device Interface](https://en.wikipedia.org/wiki/Graphics_Device_Interface)|Representing graphical objects and transmitting them to output devices such as monitors and printers|[GDIPP](https://github.com/CoolOppo/GDIPP) / [libgdiplus](https://github.com/mono/libgdiplus)|
 |[Windows USER](https://en.wikipedia.org/wiki/Windows_USER)|Provides core user interface, messaging and visual elements||
