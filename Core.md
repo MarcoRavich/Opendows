@@ -17,7 +17,7 @@
 |[System idle process](https://en.wikipedia.org/wiki/System_idle_process)|A counter which measures how much idle capacity the CPU has at any given time||
 |[Session Manager Subsystem](https://en.wikipedia.org/wiki/Session_Manager_Subsystem)|Performs several critical boot-time operations, such as the creation of environment variables, starting CSRSS, and performing file-copy operations that were queued up from before the system was booted (pending file rename operations)||
 |[Client/Server Runtime Subsystem](https://en.wikipedia.org/wiki/Client/Server_Runtime_Subsystem)|Provides the capability for applications to use the [Windows API](https://en.wikipedia.org/wiki/Windows_API)||
-|[Local Security Authority Subsystem Service](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service)|Verifies users logging on to the computer and creates security tokens||
+|[Local Security Authority Subsystem Service](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service)|Verifies users logging on to the computer and creates security tokens|[pGina](http://pgina.org/)|
 |[Winlogon](https://en.wikipedia.org/wiki/Winlogon)|Responsible for handling the secure attention key, loading the user profile on logon, and optionally locking the computer when a screensaver is running||
 |[Svchost.exe](https://en.wikipedia.org/wiki/Svchost.exe)|A generic host process name for services that run from dynamic-link libraries (DLLs)||
 |[Windows on Windows](https://en.wikipedia.org/wiki/Windows_on_Windows) and [WOW64](https://en.wikipedia.org/wiki/WOW64)|An abstraction layer that allows legacy code to operate on more modern versions of Windows||
