@@ -28,7 +28,7 @@ jobs:
       - name: Check and update links
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/check-links.py
+        run: python .github/scripts/check-links.py
       
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
