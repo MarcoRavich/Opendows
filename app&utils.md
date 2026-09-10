@@ -40,6 +40,6 @@
 |[Media Center]()|Designed to serve as a home-entertainment hub. Lets users browse and view pictures, videos, and music|[Kodi](https://kodi.tv/)|
 |[Task Manager]()|Provides information about computer performance and displays details about running applications, processes, network activity, logged-in users, and system services|[TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)|
 |[Disk Cleanup]()|Utility for compacting rarely used files and removing files that are no longer required|[BleachBit](https://www.bleachbit.org/)|
-|[Snipping Tool]()|Screen-capture tool that allows for taking screenshots (called snips)|[Snipping Tool++](https://github.com/SnippingToolPlusPlus/SnippingToolPlusPlus#readme)|
+|[Snipping Tool]()|Screen-capture tool that allows for taking screenshots (called snips)|[Greenshot](https://github.com/greenshot/greenshot#readme)|
 |[Windows Security]()|Used to transfer many files at once from one computer to another||
 |[Solitaire Collection]()|Set of solitaire card games|[PySolFC](https://pysolfc.sourceforge.io/)|
